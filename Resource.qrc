@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/assets/images/png/learn.png</file>
+        <file>resource/assets/images/png/button1.jpg</file>
+        <file>resource/assets/images/png/button2.png</file>
+        <file>resource/assets/images/png/button3.png</file>
+        <file>resource/assets/images/png/Angry/angry.gif</file>
+        <file>resource/assets/images/png/Happy/happy.gif</file>
+        <file>resource/assets/images/png/Love/like_you.gif</file>
+        <file>resource/assets/images/png/Lovely/peeping.png</file>
+        <file>resource/assets/images/png/Happy/sleep.gif</file>
+        <file>resource/assets/images/png/rotate.gif</file>
+        <file>resource/resource/button/quit.png</file>
+        <file>resource/resource/desktopRole/summerGril/0.png</file>
+        <file>resource/resource/desktopRole/summerGril/1.png</file>
+        <file>resource/resource/desktopRole/summerGril/2.png</file>
+        <file>resource/resource/desktopRole/summerGril/3.png</file>
+        <file>resource/resource/desktopRole/summerGril/4.png</file>
+        <file>resource/resource/desktopRole/summerGril/5.png</file>
+    </qresource>
+</RCC>
